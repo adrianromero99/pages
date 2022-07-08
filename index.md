@@ -1,5 +1,15 @@
 # Backoffice Web - Manual de usuario
 
+[¿Cómo utilizar el backoffice?](#como-utilizar)
+[Users](url)
+[User profile](url)
+[Songs](url)
+[Metrics](url)
+[Metricas de usuarios](url)
+[Metricas de transacciones](url)
+[Metricas de canciones](url)
+
+<a name="como-utilizar"/>
 ## ¿Cómo utilizar el backoffice?
 Para poder loggearse y acceder al backoffice de administradores es necesario contar con una cuenta formada por email y contraseña. Notar que la cuenta tiene que tener permisos de administrador.
 
@@ -63,6 +73,6 @@ Se cuenta tanto con gráficos de torta como cón gráficos de barras.
 - Géneros con más canciones
 - Géneros con más albumes
 
-[Link](url) and ![Image](src)
+ and ![Image](src)
 
 
