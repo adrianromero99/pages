@@ -9,12 +9,12 @@
 - [Metricas de transacciones](#transaction-metrics)
 - [Metricas de canciones](#song-metrics)
 
-![user-metrics](/imagenes/user-metrics.png)
-
 <a name="como-utilizar"/>
 
 ## ¿Cómo utilizar el backoffice?
 Para poder loggearse y acceder al backoffice de administradores es necesario contar con una cuenta formada por email y contraseña. Notar que la cuenta tiene que tener permisos de administrador.
+
+![login](/imagenes/login.png)
 
 Una vez loggeado al backoffice se podrá navegar por tres secciones: 
 - Users
@@ -22,6 +22,8 @@ Una vez loggeado al backoffice se podrá navegar por tres secciones:
 - Metrics
 
 El backoffice cuenta con una barra de navegación en la parte supuerior para poder navegar libremente entre las secciones anteriores.
+
+![navbar](/imagenes/navbar.png)
 
 A continuación se detalla una explicación de las diferentes secciones.
 
@@ -76,11 +78,15 @@ Se cuenta tanto con gráficos de torta como cón gráficos de barras.
 - Cantidad de usuarios bloqueados
 - Recuperos de contraseña
 
+![user-metrics](/imagenes/user-metrics.png)
+
 <a name="transaction-metrics"/>
 
 ##### Métricas de transacciones
 - Cantidad de depósitos y de pagos
 - Monto enviado por depósitos y por pagos
+
+![transaction-metrics](/imagenes/transaction-metrics.png)
 
 <a name="songs-metrics"/>
 
@@ -89,3 +95,5 @@ Se cuenta tanto con gráficos de torta como cón gráficos de barras.
 - Autores con más álbumes
 - Géneros con más canciones
 - Géneros con más albumes
+
+![songs-metrics](/imagenes/songs-metrics.png)
