@@ -10,6 +10,7 @@
 - [Metricas de canciones](url)
 
 <a name="como-utilizar"/>
+
 ## ¿Cómo utilizar el backoffice?
 Para poder loggearse y acceder al backoffice de administradores es necesario contar con una cuenta formada por email y contraseña. Notar que la cuenta tiene que tener permisos de administrador.
 
