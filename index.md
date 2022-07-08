@@ -23,7 +23,7 @@ Una vez loggeado al backoffice se podrá navegar por tres secciones:
 
 El backoffice cuenta con una barra de navegación en la parte supuerior para poder navegar libremente entre las secciones anteriores.
 
-![navbar](/imagenes/navbar.png)
+![navbar](/imagenes/navbar.PNG)
 
 A continuación se detalla una explicación de las diferentes secciones.
 
