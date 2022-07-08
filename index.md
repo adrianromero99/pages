@@ -1,17 +1,25 @@
-## Backoffice Web
-## Manual de usuario
+# Backoffice Web - Manual de usuario
 
 ## ¿Cómo utilizar el backoffice?
-Para para poder acceder al backoffice de administradores es necesario contar con una cuenta formada por email y contraseña. Notar que la cuenta tiene que tener permisos de administrador.
+Para poder loggearse y acceder al backoffice de administradores es necesario contar con una cuenta formada por email y contraseña. Notar que la cuenta tiene que tener permisos de administrador.
 
-El backoffice cuenta con tres secciones: 
+Una vez loggeado al backoffice se podrá navegar por tres secciones: 
 - Users
 - Songs
 - Metrics
 
-### Markdown
+El backoffice cuenta con una barra de navegación en la parte supuerior para poder navegar libremente entre las secciones anteriores.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A continuación se detalla una explicación de las diferentes secciones.
+
+### Users
+La seccion de usuarios lista a todos los usuarios del sistema y nos muestra la siguiente información acerca de ellos:
+- ID de usuario
+- Nombre de usuario
+- Disponibilidad: indica si el usuario está bloqueado o no
+- Acciones: permiten bloquear/desbloquear a un usuario o ir al perfil de los usuarios
+
+
 
 ```markdown
 Syntax highlighted code block
