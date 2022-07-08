@@ -1,9 +1,13 @@
 ## Backoffice Web
-### User manual
+## Manual de usuario
 
-You can use the [editor on GitHub](https://github.com/adrianromero99/pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## ¿Cómo utilizar el backoffice?
+Para para poder acceder al backoffice de administradores es necesario contar con una cuenta formada por email y contraseña. Notar que la cuenta tiene que tener permisos de administrador.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+El backoffice cuenta con tres secciones: 
+- Users
+- Songs
+- Metrics
 
 ### Markdown
 
