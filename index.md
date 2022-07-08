@@ -40,7 +40,7 @@ Al bloquear a un usuario les negamos el acceso a la aplicación móvil.
 
 <a name="users-profile"/>
 
-#### User profile
+### User profile
 En la seccion del perfil de usuario se agrega como información adicional:
 - Suscripcion: indica si el usuario está suscripto al contenido exclusivo o no.
 - Géneros favoritos: los generos que el usuario marcó como sus favoritos.
@@ -72,7 +72,7 @@ Se cuenta tanto con gráficos de torta como cón gráficos de barras.
 
 <a name="user-metrics"/>
 
-#### Métricas de usuarios
+### Métricas de usuarios
 - Cantidad de logins
 - Cantidad de logins con identidad federada
 - Cantidad de usuarios registrados
@@ -84,7 +84,7 @@ Se cuenta tanto con gráficos de torta como cón gráficos de barras.
 
 <a name="transaction-metrics"/>
 
-##### Métricas de transacciones
+### Métricas de transacciones
 - Cantidad de depósitos y de pagos
 - Monto enviado por depósitos y por pagos
 
@@ -92,7 +92,7 @@ Se cuenta tanto con gráficos de torta como cón gráficos de barras.
 
 <a name="songs-metrics"/>
 
-##### Métricas de canciones
+### Métricas de canciones
 - Autores con más canciones
 - Autores con más álbumes
 - Géneros con más canciones
