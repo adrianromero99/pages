@@ -33,35 +33,36 @@ En la seccion de canciones se listan todas las canciones del sistema. Mostramos 
 - Nombre
 - Autores
 - Generos
-- Duración
+- Duración (en segundos)
 
-Ademas se agregan filtros para poder encontrar las canciones que uno desee:
-- 
+Además se agregan filtros para poder encontrar las canciones que uno desee, se puede filtrar por nombre, autor o genero. 
+Los filtros de nombre y autor permiten escribir aquello que se necesite encontrar, mientras que el filtro de genero te permite elegir
+entre alguno de los generos posibles de las canciones.
 
-```markdown
-Syntax highlighted code block
+Notar que si alguna combinación de filtros no encuentra ninguna canción, entonces se notificará que no hay canciones que cumplan con los filtros pedidos. 
 
-# Header 1
-## Header 2
-### Header 3
+### Metrics
+En la seccion de métricas podemos encontrar algunas de las metricas mas relevantes y gráficos para analizarlos.
+Se cuenta tanto con gráficos de torta como cón gráficos de barras. 
 
-- Bulleted
-- List
+#### Métricas de usuarios
+- Cantidad de logins
+- Cantidad de logins con identidad federada
+- Cantidad de usuarios registrados
+- Cantidad de usuarios registrados con identidad federada
+- Cantidad de usuarios bloqueados
+- Recuperos de contraseña
 
-1. Numbered
-2. List
+##### Métricas de transacciones
+- Cantidad de depósitos y de pagos
+- Monto enviado por depósitos y por pagos
 
-**Bold** and _Italic_ and `Code` text
+##### Métricas de canciones
+- Autores con más canciones
+- Autores con más álbumes
+- Géneros con más canciones
+- Géneros con más albumes
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adrianromero99/pages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
