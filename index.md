@@ -16,10 +16,27 @@ A continuación se detalla una explicación de las diferentes secciones.
 La seccion de usuarios lista a todos los usuarios del sistema y nos muestra la siguiente información acerca de ellos:
 - ID de usuario
 - Nombre de usuario
-- Disponibilidad: indica si el usuario está bloqueado o no
+- Estado: indica si el usuario está bloqueado o no
 - Acciones: permiten bloquear/desbloquear a un usuario o ir al perfil de los usuarios
 
+Al bloquear a un usuario les negamos el acceso a la aplicación móvil.
 
+#### User profile
+En la seccion del perfil de usuario se agrega como información adicional:
+- Suscripcion: indica si el usuario está suscripto al contenido exclusivo o no.
+- Géneros favoritos: los generos que el usuario marcó como sus favoritos.
+- Artistas favoritos: los artistas que el usuario marcó como sus favoritos.
+
+### Songs
+En la seccion de canciones se listan todas las canciones del sistema. Mostramos la siguiente informacion de las canciones:
+- ID de canción
+- Nombre
+- Autores
+- Generos
+- Duración
+
+Ademas se agregan filtros para poder encontrar las canciones que uno desee:
+- 
 
 ```markdown
 Syntax highlighted code block
