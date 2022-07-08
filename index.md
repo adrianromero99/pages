@@ -1,13 +1,13 @@
 # Backoffice Web - Manual de usuario
 
 - [¿Cómo utilizar el backoffice?](#como-utilizar)
-- [Users](url)
-- [User profile](url)
-- [Songs](url)
-- [Metrics](url)
-- [Metricas de usuarios](url)
-- [Metricas de transacciones](url)
-- [Metricas de canciones](url)
+- [Users](#users)
+- [User profile](#user-profile)
+- [Songs](#songs)
+- [Metrics](#metrics)
+- [Metricas de usuarios](#user-metrics)
+- [Metricas de transacciones](#transaction-metrics)
+- [Metricas de canciones](#song-metrics)
 
 <a name="como-utilizar"/>
 
@@ -23,6 +23,8 @@ El backoffice cuenta con una barra de navegación en la parte supuerior para pod
 
 A continuación se detalla una explicación de las diferentes secciones.
 
+<a name="users"/>
+
 ### Users
 La seccion de usuarios lista a todos los usuarios del sistema y nos muestra la siguiente información acerca de ellos:
 - ID de usuario
@@ -32,11 +34,15 @@ La seccion de usuarios lista a todos los usuarios del sistema y nos muestra la s
 
 Al bloquear a un usuario les negamos el acceso a la aplicación móvil.
 
+<a name="users-profile"/>
+
 #### User profile
 En la seccion del perfil de usuario se agrega como información adicional:
 - Suscripcion: indica si el usuario está suscripto al contenido exclusivo o no.
 - Géneros favoritos: los generos que el usuario marcó como sus favoritos.
 - Artistas favoritos: los artistas que el usuario marcó como sus favoritos.
+
+<a name="songs"/>
 
 ### Songs
 En la seccion de canciones se listan todas las canciones del sistema. Mostramos la siguiente informacion de las canciones:
@@ -52,9 +58,13 @@ entre alguno de los generos posibles de las canciones.
 
 Notar que si alguna combinación de filtros no encuentra ninguna canción, entonces se notificará que no hay canciones que cumplan con los filtros pedidos. 
 
+<a name="metrics"/>
+
 ### Metrics
 En la seccion de métricas podemos encontrar algunas de las metricas mas relevantes y gráficos para analizarlos.
 Se cuenta tanto con gráficos de torta como cón gráficos de barras. 
+
+<a name="user-metrics"/>
 
 #### Métricas de usuarios
 - Cantidad de logins
@@ -64,16 +74,17 @@ Se cuenta tanto con gráficos de torta como cón gráficos de barras.
 - Cantidad de usuarios bloqueados
 - Recuperos de contraseña
 
+<a name="transaction-metrics"/>
+
 ##### Métricas de transacciones
 - Cantidad de depósitos y de pagos
 - Monto enviado por depósitos y por pagos
+
+<a name="songs-metrics"/>
 
 ##### Métricas de canciones
 - Autores con más canciones
 - Autores con más álbumes
 - Géneros con más canciones
 - Géneros con más albumes
-
- and ![Image](src)
-
 
