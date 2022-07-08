@@ -1,13 +1,13 @@
 # Backoffice Web - Manual de usuario
 
-[¿Cómo utilizar el backoffice?](#como-utilizar)
-[Users](url)
-[User profile](url)
-[Songs](url)
-[Metrics](url)
-[Metricas de usuarios](url)
-[Metricas de transacciones](url)
-[Metricas de canciones](url)
+- [¿Cómo utilizar el backoffice?](#como-utilizar)
+- [Users](url)
+- [User profile](url)
+- [Songs](url)
+- [Metrics](url)
+- [Metricas de usuarios](url)
+- [Metricas de transacciones](url)
+- [Metricas de canciones](url)
 
 <a name="como-utilizar"/>
 ## ¿Cómo utilizar el backoffice?
