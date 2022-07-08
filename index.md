@@ -9,6 +9,8 @@
 - [Metricas de transacciones](#transaction-metrics)
 - [Metricas de canciones](#song-metrics)
 
+![user-metrics](https://github.com/adrianromero99/pages/blob/gh-pages/imagenes/user-metrics.png)
+
 <a name="como-utilizar"/>
 
 ## ¿Cómo utilizar el backoffice?
