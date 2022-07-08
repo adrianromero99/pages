@@ -46,6 +46,8 @@ En la seccion del perfil de usuario se agrega como información adicional:
 - Géneros favoritos: los generos que el usuario marcó como sus favoritos.
 - Artistas favoritos: los artistas que el usuario marcó como sus favoritos.
 
+![user-profile](user-profile.png)
+
 <a name="songs"/>
 
 ### Songs
